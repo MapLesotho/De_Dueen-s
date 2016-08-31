@@ -1,0 +1,16 @@
+{
+  "name": "get-centre",
+  "version": "1.0.0",
+  "description": "Quick scripts to find the centre point of a polygon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin Broderick",
+  "license": "MIT",
+  "dependencies": {
+    "geojson-stream": "0.0.1",
+    "minimist": "^1.2.0",
+    "turf": "^3.0.14"
+  }
+}
